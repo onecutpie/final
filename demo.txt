@@ -17,3 +17,4 @@ STEPS
 15.staged -> commit("commit --m")
 16.push your file
 17.this is the change
+18.pull
