@@ -1,0 +1,18 @@
+STEPS
+
+1.create repository at github
+2.create one text file in your local machine
+3.upload the file in your repo
+4. create one folder in any deive
+5.go to git bash
+6.go to directory where you created your folder
+7.go to folder
+8. clone your repository
+9.go to repository
+10. check your file in the file
+11. make changes in the file
+12. check status
+13.it will show file in the "modified" state
+14.modified->staged(add)
+15.staged -> commit("commit --m")
+16.push your file
